@@ -1,4 +1,4 @@
-                                                                 Projeto TaskMaster
+                                                              Projeto TaskMaster
 integrantes:
 
 Guilherme Filipe dos Santos Dias RA: 2202828
